@@ -33,6 +33,16 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+## Built with 🛠️
+
+
+* [Vue CLI](https://cli.vuejs.org/) - Command line interface Vue 
+* [VueJS](https://vuejs.org/v2/guide/)- Framework Vuejs v2
+* [Vue Router](https://router.vuejs.org/)- 0fficial router for Vue.js 
+* [Vuex](https://vuex.vuejs.org/)- State management pattern 
+* [Vuetify](https://vuetifyjs.com/en/) - Vue UI Library
+* [howler.js](https://github.com/goldfire/howler.js/) - Audio library
+* [Axios](https://axios-http.com/docs/intro) - HTTP Client for node.js
 
 ### Some catches
 
