@@ -1,12 +1,12 @@
 # player-vue-4
 
-Proyecto de reproducción de música basado en la libreria Howlerjs y VueJs.
+Music playback project based on the Howlerjs and VueJs library..
 
 vista presentacion/home
 ![Inicio](readme/img1.PNG "Player Music")
 
 vista del Reproductor/player
-![Inicio](readme/img1.PNG "Player Music")
+![Inicio](readme/img2.PNG "Player Music")
 
 # Link Prewiew
 [Play-Music](https://verastian.github.io/player-music/)
@@ -34,9 +34,9 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-### some catches
+### Some catches
 
-Ingreso:
+Homepage:
 ![ingreso](readme/Animation.gif "Player Music")
 
 Playlists:
