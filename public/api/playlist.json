@@ -1,0 +1,106 @@
+[
+  {
+    "title": "A Little Bit of Rhythm",
+    "artist": "Unknown",
+    "howl": "null",
+    "display": "true",
+    "selected":"false",
+    "img":"A_Little_Bit_of_Rhythm.jpg"
+  },
+  {
+    "title": "All that Remains",
+    "artist": "Unknown",
+    "howl": "null",
+    "display": "true",
+    "selected":"false",
+    "img":"All_that_Remains.jpg"
+  },
+  {
+    "title": "Charms",
+    "artist": "Fiftysounds",
+    "howl": "null",
+    "display": "true",
+    "selected":"false",
+    "img":"Charms.jpg"
+  },
+  {
+    "title": "East Wind",
+    "artist": "FiftySounds",
+    "howl": "null",
+    "display": "true",
+    "selected":"false",
+    "img":"East_Wind.jpg"
+  },
+  {
+    "title": "Only the Braves",
+    "artist": "FiftySounds",
+    "howl": "null",
+    "display": "true",
+    "selected":"false",
+    "img":"Only_the_Braves.jpg"
+  },
+  {
+    "title": "Returning Home",
+    "artist": "Unknown",
+    "howl": "null",
+    "display": "true",
+    "selected":"false",
+    "img":"Returning_Home.jpg"
+  },
+  {
+    "title": "Spiritual",
+    "artist": "Unknown",
+    "howl": "null",
+    "display": "true",
+    "selected":"false",
+    "img":"Spiritual.jpg"
+  },
+  {
+    "title": "The First Man",
+    "artist": "FiftySounds",
+    "howl": "null",
+    "display": "true",
+    "selected":"false",
+    "img":"The_First_Man.jpg"
+  },
+  {
+    "title": "The Music Box",
+    "artist": "Unknown",
+    "howl": "null",
+    "display": "true",
+    "selected":"false",
+    "img":"The_Music_Box.jpg"
+  },
+  {
+    "title": "The Revelation",
+    "artist": "Unknown",
+    "howl": "null",
+    "display": "true",
+    "selected":"false",
+    "img":"The_Revelation.jpg"
+  },
+  {
+    "title": "The Unexplored",
+    "artist": "Unknown",
+    "howl": "null",
+    "display": "true",
+    "selected":"false",
+    "img":"The_Unexplored.jpg"
+  },
+  {
+    "title": "The Wild Side",
+    "artist": "Unknown",
+    "howl": "null",
+    "display": "true",
+    "selected":"false",
+    "img":"The_Wild_Side.jpg"
+  },
+  {
+    "title": "What Matters Most",
+    "artist": "Unknown",
+    "howl": "null",
+    "display": "true",
+    "selected":"false",
+    "img":"What_Matters_Most.jpeg"
+  }
+]
