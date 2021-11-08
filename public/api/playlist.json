@@ -5,7 +5,7 @@
     "howl": "null",
     "display": "true",
     "selected":"false",
-    "img":"A_Little_Bit_of_Rhythm.jpg"
+    "img":"../../img/A_Little_Bit_of_Rhythm.jpg"
   },
   {
     "title": "All that Remains",
@@ -13,7 +13,7 @@
     "howl": "null",
     "display": "true",
     "selected":"false",
-    "img":"All_that_Remains.jpg"
+    "img":"../../img/All_that_Remains.jpg"
   },
   {
     "title": "Charms",
@@ -21,7 +21,7 @@
     "howl": "null",
     "display": "true",
     "selected":"false",
-    "img":"Charms.jpg"
+    "img":"../../img/Charms.jpg"
   },
   {
     "title": "East Wind",
@@ -29,7 +29,7 @@
     "howl": "null",
     "display": "true",
     "selected":"false",
-    "img":"East_Wind.jpg"
+    "img":"../../img/East_Wind.jpg"
   },
   {
     "title": "Only the Braves",
@@ -37,7 +37,7 @@
     "howl": "null",
     "display": "true",
     "selected":"false",
-    "img":"Only_the_Braves.jpg"
+    "img":"../../img/Only_the_Braves.jpg"
   },
   {
     "title": "Returning Home",
@@ -45,7 +45,7 @@
     "howl": "null",
     "display": "true",
     "selected":"false",
-    "img":"Returning_Home.jpg"
+    "img":"../../img/Returning_Home.jpg"
   },
   {
     "title": "Spiritual",
@@ -53,7 +53,7 @@
     "howl": "null",
     "display": "true",
     "selected":"false",
-    "img":"Spiritual.jpg"
+    "img":"../../img/Spiritual.jpg"
   },
   {
     "title": "The First Man",
@@ -61,7 +61,7 @@
     "howl": "null",
     "display": "true",
     "selected":"false",
-    "img":"The_First_Man.jpg"
+    "img":"../../img/The_First_Man.jpg"
   },
   {
     "title": "The Music Box",
@@ -69,7 +69,7 @@
     "howl": "null",
     "display": "true",
     "selected":"false",
-    "img":"The_Music_Box.jpg"
+    "img":"../../img/The_Music_Box.jpg"
   },
   {
     "title": "The Revelation",
@@ -77,7 +77,7 @@
     "howl": "null",
     "display": "true",
     "selected":"false",
-    "img":"The_Revelation.jpg"
+    "img":"../../img/The_Revelation.jpg"
   },
   {
     "title": "The Unexplored",
@@ -85,7 +85,7 @@
     "howl": "null",
     "display": "true",
     "selected":"false",
-    "img":"The_Unexplored.jpg"
+    "img":"../../img/The_Unexplored.jpg"
   },
   {
     "title": "The Wild Side",
@@ -93,7 +93,7 @@
     "howl": "null",
     "display": "true",
     "selected":"false",
-    "img":"The_Wild_Side.jpg"
+    "img":"../../img/The_Wild_Side.jpg"
   },
   {
     "title": "What Matters Most",
@@ -101,6 +101,6 @@
     "howl": "null",
     "display": "true",
     "selected":"false",
-    "img":"What_Matters_Most.jpeg"
+    "img":"../../img/What_Matters_Most.jpeg"
   }
 ]

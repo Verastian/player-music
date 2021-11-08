@@ -126,7 +126,7 @@ export default {
 
       changeImg: {
         backgroundImage:
-          'url("https://verastian.github.io/player-music/img/A_Little_Bit_of_Rhythm.jpg")',
+          'url(" http://localhost:8080/img/A_Little_Bit_of_Rhythm.jpg")',
         backgroundSize: "cover",
         backgroundPosition: "center",
       },
@@ -178,7 +178,7 @@ export default {
       //console.log(this.listTracks);
       this.listTracks.forEach((track) => {
         track.howl = new Howl({
-          src: [`https://verastian.github.io/player-music/playlist/${track.title}.mp3`],
+          src: [` http://localhost:8080/playlist/${track.title}.mp3`],
           volume: 0.5,
           loop: this.loop,
           onplay: () => {
@@ -216,7 +216,7 @@ export default {
     dinamicChangeImg() {
       /* ***************************************************************** */
 
-      this.changeImg.backgroundImage = `url(https://verastian.github.io/player-music/img/${this.tracks[this.index].img})`;
+      this.changeImg.backgroundImage = `url(${this.tracks[this.index].img})`;
     },
     /* ************************** */
     randomPlay() {

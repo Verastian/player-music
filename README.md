@@ -1,5 +1,12 @@
 # player-vue-4
 
+Proyecto de reproducción de música basado en la libreria Howlerjs y VueJs.
+
+![Alt text](public\readme\img1.PNG?raw=true "Player Music")
+
+
+
+
 ## Project setup
 ```
 npm install

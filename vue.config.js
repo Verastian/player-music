@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: '/player-music',
+  /* publicPath: '/player-music', */
   transpileDependencies: [
     'vuetify'
   ]

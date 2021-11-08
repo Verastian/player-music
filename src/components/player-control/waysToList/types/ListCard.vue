@@ -44,7 +44,7 @@
 
             <div class="posRelative">
               <v-avatar class="ma-3" size="125">
-                <v-img :src="`https://verastian.github.io/player-music/img/${slotProps.track.img}`"> </v-img>
+                <v-img :src="slotProps.track.img"> </v-img>
               </v-avatar>
                 <v-progress-circular
                  v-if="slotProps.i === currentIndex"
@@ -101,8 +101,6 @@ export default {
   },
   computed: {
     ...mapState(["playlist"]),
-
-
 
     overflowY() {
       return this.playlist.length > 5;

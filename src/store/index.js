@@ -22,7 +22,7 @@ export default new Vuex.Store({
   },
   actions: {
     getPlaylist({ commit }) {
-      axios.get("https://verastian.github.io/player-music/api/playlist.json").
+      axios.get("http://localhost:8080/api/playlist.json").
       then((res) => {
         //console.log(res.data);
         commit("GET_PLAYLIST",res.data);
